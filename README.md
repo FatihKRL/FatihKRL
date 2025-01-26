@@ -8,4 +8,4 @@ Passionné par la **cybersécurité**, les **réseaux** et le **développement**
 - 💻 **Développement**
 
 ## 📫 Contactez-moi
-Envie d'échanger ou de collaborer ? [Envoyez-moi un message](#) !
+Envie d'échanger ou de collaborer ? [Envoyez-moi un message](https://f-kurul.tech/#contact) !
