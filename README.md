@@ -1,11 +1,11 @@
-# Welcome to my GitHub 👨‍💻
+# 👨‍💻 Fatih | Étudiant en Réseaux & Télécommunications  
 
-I'm **Fatih**, a **3rd-year student in Network and Telecommunications**. Passionate about **cybersecurity**, **networking**, and **development**, I enjoy solving complex technical problems and learning new technologies.
+Passionné par la **cybersécurité**, les **réseaux** et le **développement**, je suis en 3e année de BUT Réseaux et Télécommunications. J'adore résoudre des problèmes techniques complexes et apprendre en continu sur les nouvelles technologies.
 
-🎯 **My areas of expertise:**
-- Cybersecurity 🔐
-- Networking 🌐
-- Development 💻
+## 🛠️ Compétences
+- 🔐 **Cybersécurité**
+- 🌐 **Réseaux**
+- 💻 **Développement**
 
-💬 **Contact me:**
-If you're interested in these fields or want to collaborate, feel free to reach out!
+## 📫 Contactez-moi
+Envie d'échanger ou de collaborer ? [Envoyez-moi un message](#) !
